@@ -1,4 +1,4 @@
-# It is a Spending tracker desktop application developed Core Java, Java Swing (JFrame), and MySQL. 
+# It is a Spending tracker desktop application developed using Core Java, Java Swing (JFrame), and MySQL. 
 
 ## Glimpses(img) of the project. 
 <img width="1468" height="815" alt="Screenshot 2026-02-10 at 12 32 44 PM" src="https://github.com/user-attachments/assets/1f4b6fb0-1e4f-4f3b-9df1-dd838ee4921f" />
